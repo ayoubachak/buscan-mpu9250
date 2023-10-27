@@ -1,0 +1,10 @@
+/home/e2023/a3achak/BusCan/WORKSPACE_RESCAPT/rescapt/CMSIS/core/core_cm3.h:1524:22:NVIC_SetPriority	16	static
+/home/e2023/a3achak/BusCan/WORKSPACE_RESCAPT/rescapt/CMSIS/core/core_cm3.h:1656:26:SysTick_Config	16	static
+../src/main.c:62:5:main	16	static
+../src/main.c:172:6:can_callback	24	static
+../src/main.c:186:6:can_send_temperature	8	static
+../src/main.c:197:6:can_send_accel	8	static
+../src/main.c:214:6:can_send_gyro	8	static
+../src/main.c:231:6:can_send_accel_g	16	static
+../src/main.c:251:6:can_send_gyro_rad_s	16	static
+../src/main.c:278:6:HAL_TIM_PeriodElapsedCallback	16	static
